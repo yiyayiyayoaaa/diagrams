@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T07:50:25.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" version="13.4.8" etag="qZIolHFKGWn0PNQLHYnl" type="github"><diagram id="wPOYAyOGULOVO8NaVvKK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-20T09:37:24.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="ZX_G--q21SM0Cm1dd2tC" version="13.4.8" type="github">
+  <diagram id="wPOYAyOGULOVO8NaVvKK" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="" id="T3cXSTWN9Rd6bvA0lu5y-4">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T3cXSTWN9Rd6bvA0lu5y-3" target="T3cXSTWN9Rd6bvA0lu5y-9">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="350" y="250" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="T3cXSTWN9Rd6bvA0lu5y-3" value="用户A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="发布出货信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="230" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T3cXSTWN9Rd6bvA0lu5y-8" value="&lt;h1&gt;出货信息&lt;/h1&gt;&lt;p&gt;&amp;nbsp;xxxx牛肉&amp;nbsp; &amp;nbsp;100份&amp;nbsp; 每份1Kg;&lt;/p&gt;&lt;p&gt;出货价：100&lt;span&gt;元/kg&lt;/span&gt;&lt;/p&gt;&lt;p&gt;交割日期 2020-8-10 ~ 2021-08-10&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="30" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="T3cXSTWN9Rd6bvA0lu5y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T3cXSTWN9Rd6bvA0lu5y-9" target="T3cXSTWN9Rd6bvA0lu5y-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3cXSTWN9Rd6bvA0lu5y-14" value="发布到交易市场" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T3cXSTWN9Rd6bvA0lu5y-11">
+          <mxGeometry x="-0.2743" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3cXSTWN9Rd6bvA0lu5y-9" value="平台审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T3cXSTWN9Rd6bvA0lu5y-12" value="交易市场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
